@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0901-online-stock-span](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
