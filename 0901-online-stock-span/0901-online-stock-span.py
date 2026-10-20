@@ -1,0 +1,15 @@
+class StockSpanner(object):
+
+    def __init__(self):
+        self.l=[]
+
+    def next(self, price):
+        span=1
+        while self.l and self.l[-1][0]<=price:
+            span+=self.l.pop()[1]
+        self.l.append([price,span])
+        return span
+
+# Your StockSpanner object will be instantiated and called as such:
+# obj = StockSpanner()
+# param_1 = obj.next(price)
