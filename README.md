@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0224-basic-calculator) |
+| [0402-remove-k-digits](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Design
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0224-basic-calculator) |
+| [0402-remove-k-digits](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
