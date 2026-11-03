@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 ## Design
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 ## Greedy
 |  |
 | ------- |
