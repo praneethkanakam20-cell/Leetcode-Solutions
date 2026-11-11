@@ -1,9 +1,11 @@
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
+        h={}
+        l=0
         m=0
-        i=0
-        for j in range(len(s)):
-            while len(s[i:j+1])!=len(set(s[i:j+1])):
-                i+=1
-            m=max(len(s[i:j+1]),m)
+        for r in range(len(s)):
+            if s[r] in h and h[s[r]]>=l:
+                l=h[s[r]]+1
+            h[s[r]]=r
+            m=max(m,r-l+1)
         return m
