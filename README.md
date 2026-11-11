@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Stack
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0224-basic-calculator](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 ## Recursion
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
