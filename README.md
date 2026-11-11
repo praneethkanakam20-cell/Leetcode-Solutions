@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 ## Sorting
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sliding Window
 |  |
