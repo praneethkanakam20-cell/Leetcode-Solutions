@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0853-car-fleet](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0853-car-fleet) |
 ## Dynamic Programming
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sliding Window
 |  |
