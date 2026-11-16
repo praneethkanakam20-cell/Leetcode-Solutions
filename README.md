@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0735-asteroid-collision](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0853-car-fleet) |
+| [0904-fruit-into-baskets](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/praneethkanakam20-cell/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
